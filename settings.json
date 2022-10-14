@@ -1,50 +1,143 @@
 {
   "tokens": {
-    "main": "",
-    "alts": [
-      ""
+    "main": "NDM4Njc3NzU5Mzg5MjA0NTAw.Gy7-T3.8QmyFYuRx40GDsXUH629Qz6scsKpwR4s_gaTXE", // Main token
+    "alts": [ // Alts token
+"MzQ0ODc2NzY5ODY3OTg4OTkz.YLoRWw.JXW3SXBeHltJsg8LTtZAc3JIBWc",
+"NDExNDEwODUwNjkyMzMzNTY4.X8-Wyw.zjZ9Hej2wv3EmIz7nZMcAqHATIA",
+"NDk1MjIwNjUzMTc2Mzg5NjMz.YMDdhg.Oow0jW_rxAAb30HfY8Xxngr0vos",
+"Nzc0MDU5ODA3NjQ4MjUxOTE2.X6YLqA.I9TI9WLlT1UfLx7_QtJB9d3YWnw",
+"ODgyNTkzNzUxODUwMTg0NzA0.YS9qdQ.dilzILWuGDo9G23CwwESDghPcHc",
+"Njk0OTI0NDc2NDAzNDE3MTg4.YZDZvQ.JkOj_e33-zWCLEW88w0yTRJLTLQ",
+"NDY1MzE0NTAwNDQ3NDM2ODAx.YUqZHA.KHlfsVSFjPcI8_AzHRhzra7jtN8",
+"MzYwMzE2MDM0MjE0Nzg5MTIw.YNvwyw.cJqu8W9NkU275MQvpz5O-H4Qgg0",
+"NzUzMzA2NTA4OTY3NjczOTc3.X4DHWw.SPG675PSwcnIB9P7He0mitHiwKQ",
+"NDM0NzY5OTU3NzQ2OTAxMDEz.Ycwo-Q.84-z0EqfsU_hLVetrhGBuce-jxQ",
+"NjkxMjgwNDAzMzE0NjM4ODU5.YehhWw.Hl5jzEx2XmWC56EpAjZy_IZJhk4",
+"Nzk1NDk4NTk3NjAwMDY3NjI0.X_eXHA.xzoJMQueBcaDM5PWm56bshGxDrg",
+"ODc5NzU2MzI0NTIxNTA4OTA0.YdlW7Q.MtmwLY_qQ3WUkMAJEIffHRPkH2M",
+"NjEwOTIzNDcyODEzODE3ODU2.Xw87NA.dRkRJIirS5NGJz3EJs4L2whckiU",
+"OTQyNTg3Mjc5NzAzMTc5MzM1.Yg4dUg.ZZcOovk--SwsGJZVuhi_hYU8ok4",
+"NzUwNjQwMjQ1NTM1NDA4MTQ5.YeHI3Q.2T9XSy35nEr9_SJ_O7g0fpFG4VM",
+"OTQzNTUxMTY5MzI4OTk2NDQy.YhuBvw.mGoc233KNee6NXoz3afrkU91UkM",
+"ODA5NTMzNTQyOTI4ODc1NTQx.YDJ2uw.-L6m7HSEorVaJdio8B8ZBkUC7MY",
+"Nzg4ODc5MTIyODI2OTIwMDE2.YaBjMg.kAD4s0fxg8qd3PyuPXCwt-PKZi0",
+"NzAwNjM2ODk5NTQyNDMzODMz.X6bThQ.dvRm3u5FhDBu4eAiyTU4vyC_uFU",
+"NjIzNjI4Nzg4NzM5MzQyMzY0.X10Z9Q.jZ-p-PgzjCnf4XJFotFSn6ZOqaU",
+"OTAwMDgxOTc0MjQzMzYwNzgx.YZwTfg.iHAIJIHz27KKuWyOuo3rEl7lj40",
+"Nzg0OTE4NTYwOTY2MzExOTU2.YclPXw.bnxs-RM1Ry9SrSYlNovjntof2DI",
+"NDEwOTE2OTkxOTYwODc1MDE4.X2JBhA.fAKCluULxH2gAkEnTlYwAy7fBhc",
+"Nzg3ODY1ODYxOTI2MDI3Mjk1.YcNu_g.Gl0sKKgCQjIJq9_gP0P3a8PKet0",
+"NDEyNTk2MTY2ODM2ODc5Mzcw.YMeKmA.F5YIAKPLy00W7rQdGSqVDwDrY1o",
+"MzYwOTExOTMzMDU2MDkwMTEz.X9AZIQ.ykgwreDgYpnbKJ1kMZevStVOJcc",
+"NzU5Nzk1ODYzNzM5OTU3MjQ4.X3CtTg.p7sulQsivCILGW2N9AP47xUbRos",
+"ODIwMjU4MzY5MTcyNTM3MzU0.YIcTmQ.45IhS44gTOU41bmc9eGtbY7RE74",
+"NDQ0NTk5OTk0Mzk0MDgzMzM5.X8AClA.vWBn26gF3TCl7RjjGH6jihsofls",
+"NjcwNjY0MTM2NjM5NjQzNjUw.YW2YcQ.BT14a-f5BQw-e_Ua2xosn4DB3Z8",
+"NDUzMjcyOTk3MTYwMDI2MTEz.Ya4f2g.BVo1zmTudMOeFlf9sQROgpPfVCo",
+"NzAyMTkzOTI4OTc1Mjg2MzIy.YLv1gg.YEoTLHCYv2o7eephYdJL9WLsFSg",
+"MzQ2NTc5NjkwNjU3NDE1MTc4.YUtgpQ.g04d7t4dJZaHV0jo_srMH9ROChw",
+"NjQyMDMzMDQ1NTU3MzQ2MzE2.XuPgrA.-5Cm2E-Fw2aweKgzT5bnLXqbNZ8",
+"NjkzMTExODEzMDIxMTA2Mjc3.Xn4V9w.kaqmgd8qJ9H8VIQgJAhXggvBAOU",
+"NDUyOTAyNjE5OTk2ODgwODk2.YgZwiA.yEt8_juKoF6f1qKj51OiMThKZVU",
+"MzkyMjE0Mjc1MzQ0NTY0MjI2.YAV_Gw.LtLcK3pdwC6S8oUuZ6c3pBpUL9s",
+"NTQwMjU0ODcxNjY0ODUzMDI0.YfQ11g.qYm3KDByiNayfYMx8Pza0nXgy90",
+"Nzg0ODYyMDU1MTYxMDA0MDgy.YJc0UA.II_ncQ9s1fEpkBDtw_pMgugVeC4",
+"NzU5MzM2MDA3NTEzNjY5NjMz.YJXnow.CtrIMsoR5DKcBlRjmT8vjpQeOYg",
+"NzMzMDkzNTI5NzU2MzY4OTc2.YLSk7Q.ffsJ8KzZaksEZBpq_-jox7WU0Xg",
+"ODMyMzEwNDg4NTMxODYxNTE1.YTdw8w.9mcKEnSIDyb7LdP7l4JXIRgXiWg",
+"NzI4NDY5NjEyMTUyNDg3OTg4.YMNjGg.gGAzToad3WwEiRFIPETjjTLrbI8",
+"NzUzMTk2MzEyMDY5MTQ0NTc2.YAhmgw.Hyi-BPgxDuyNJUoLd1tIIJic5Yc",
+"MzEzMTQzMDQ3NjYxNTUxNjE3.X9k8xg.Z3aUWsqmERy6vkcIWpVEnI80YYs",
+"NzcwNjk5MzY2MTE2ODg0NTIx.YWtSlw.XZUJsR2yhl44HPWZf006TckmxP4",
+"NDA1MTMxNTM0MTg2ODQwMDY0.Xu4EOw.-ObQ6a9-ehxRhkNIAKjSRWgGGYQ",
+"NjU0ODYwNzUxMTUxODI0OTAx.XfLtjw.2URbDm7JAkDaDzbX4Tc3upBisnI",
+"Mzc3NzI3ODQxMTgzNDY1NDcz.Yh4Nvg.xwiWMrJRLxneHpHl5hxbfy-cD2s",
+"NTE3NDM1MjY1NTQ0MDkzNjk4.Yd9j7A.-AggTzUXXse3y8ryiC52kMh4jRw",
+"OTMyNzc4NDkwODU0NTM5MzQ0.Yf16yg.LKk4jQf7tM6YDG-FQEyMNHS4tkc",
+"NjQyMzMzNTQwMDU0NDY2NTgx.YN3NGw.Sj9nKbk7b2muqP6HpMt4Srxs42w",
+"ODQ4MTM2MzEyOTI0OTMwMDY4.YLJkIQ.eJXAu_4ho3NgU7VHsc9Ryn6W3Fc",
+"NTg3OTg4NTUzNTY5NDAyODgx.YNNNEQ.CJLrL8EMupP2bmWDT7qB8o8f1Oc",
+"Njg5MTM0MTI0NjM1NTIxMDkw.YIPpmw.r09mTPEoLo1Fja4iIOa3kEs-nAo",
+"ODgyMTM0MzI4NjY5MjQxMzU1.YS297A.qRkxHp3_EpaOOmPK3eTmmYMoQuc",
+"ODEyMjk3OTgyNjczODEzNTQ0.YC-tyA.AJr6GTUqQ4rWTN5ls6dzyTtIaXo",
+"NjgzNjA1NTE2OTMyNjEyMTE3.YgjUjQ.rxFimxLe-c0BJSdIsfzY3bHLUzQ",
+"NDY3MjMxMjc1OTA0Nzk0NjI0.YZuhQw.yBFPdBxKajbhTHOGeZIGwkxIcJk",
+"NzkxMzk0ODg0MTExMDQwNTcy.YavPnA.DqhL4U_Nu7G5sm_mhBNRFdjl0E4",
+"ODcwOTA2MDI5MDg3NTMxMDY4.YRPUQg.VcEt0_HREDwfofXEhTYEUsHr5fo",
+"MjU5NzQ0NzQ3MDYzNzM4Mzgw.YCk4dg.rxynqvmt-DxLM5-2ZJ-MZrDURsY",
+"ODYzODAxOTgxNjE3MTc2NTg3.YcdNNQ.vrWlbr681aJKuoJktQIXHB0PVrY",
+"NzY3NjAzMjA1NTA0NzYxODY2.X7eTZA.QkEc3kNtOl5t6XMXr8ojG4LeHs4",
+"ODEyNTA4NzAwNjUyMzM5MjIw.YQbRYA.z5B7-pzoAla-EhhqNB0W1kU_slk",
+"NTY0MzEzNjkxMjAyNTE5MDUx.YhJQVA.leaR0OMOt5wVhBypLvW4EbTJBPQ",
+"NjI3MTYxMDI5ODMwMzc3NDky.YO7t2A.w_0o4RXQyfBC7b-psS_dEOrSzE4",
+"OTQxODMzODc3NzIxMzUwMTU0.YgbtgA.2HDFqSITcbcKxwq1ffBnr39XMxE",
+"Nzc3MjUyODk0NjQyNjY3NTQx.YXgO-g.C5Kvl43baTWTTo8fHBBNGEBHHqE",
+"MzY0MDc1MDM0MjM2NjgyMjQy.YLBdaw.cQbYfqoF_PXcIhfCyuAL_Lwin4Q",
+"OTM5MDU5MzcxNTY3MDk1ODM5.YfzVlw.-U04jIOEfc2g7BXMjrx3zNYhfco",
+"NjM0MzQ0NDg2MjM5MDc2Mzcy.YNlJyA.5Z5ur3YVzcOEoUjLpA68b0E6CZg",
+"ODAzODU2OTM3NzExMzA0NzI0.YBD6pA.hMVGSacODJyd7nWP-nbtTli5lhk",
+"Mjg1OTEzOTY3MjI5MDA5OTIx.YhDtaA.0CiEKbFheFf9DhEo8a_SjKp04t0",
+"NTI4MzkyODQ0NzI1OTc3MTA5.YM68Cw.JSKTLgiOKkk20x_pJMk2ldd6Xwo",
+"ODgzMjM1NDcyNDQzMzEwMDkx.YTG_8Q.zRodLVDYekxVs_Aj3esQt8u927M",
+"NDk3MjE5MzY1NTkxMzE4NTI5.YTaY6A.rrvaNT5_OFHi4MhtsnzBmrF-abM",
+"NDgzODEzMzQwOTkzNDIxMzI0.YbwKxw.0P5hO86vObsrIMBkawz-ee0Kh-I",
+"NzgyNjU3OTcyODExNzI2ODQ4.YV7N1w.2YgKV_yULL_hQm2tMfeO9o-ZIY0",
+"MzU1NzY4NTM2OTMwNzEzNjAw.XYZGNA.xrLKLOExvSXv0RKzLGP_B0TeZQE",
+"NDI0MzY2Nzk4NTI0MTIxMDk4.YYcNig.TPd1iWsbxqwf9xhwvmD_bOE2M1s",
+"NTA4MzYzNTA1MDI4ODI1MDk4.YdRohQ.SnsUiO33sk9Tla8b8XP19O82uEQ",
+"NzY2MzY1Njc0NzI1MDQ4MzQx.X5u7fw.0a08gpGIPlkHI01_kWZn6kuTOlA",
+"NDY5MjMwMjY5ODYyNTEwNTkz.XfZ5Bw.ijABAoJxVARg7bA-eT6FV8T3E54",
+"NzkzNDkzOTI4NTg1MTk5NjU2.YV8syg.t3zMoJhJjCLVqzFUjyROdondi1Q",
+"NDM4NjcxODc3NTI3OTYxNjAx.X5P27Q.0kRa8EknZqYjaRvIBE-CO8dYA7g",
+"ODI1NDE3NzcwMDMyMzAwMDc0.YYaWRA.gHn05HrXCr9i4SoDXlstPznWVos",
+"NTg0MDgxNDQ2Mzg2NDAxMjgx.YS3QEg.hCUzxWT3SXJ5OtoITCPMmaozyMs",
+"NzA4NTU4MzA2MzI2NjA5OTkw.YM6NGw.5BO8Lu9LKuthJ3Wh6eysV3FOVvU",
+"MzY3MzU3OTU1OTUzMjYyNTkz.YFZ7Zg.nhqDkYXkv7v6ERWUfmKB8UXEuAM",
+"Nzk4MDQzMDA5NzkwMTE1ODUx.X_vSCQ.64V_j59YOxp8RLqkqbfegVK2tlQ",
+"ODYyMjU2MDEwMzQ0MjY3Nzg2.YOVssw.1Sa_V66EFqS4V56W6lHau278iAY",
+"Nzg2NjQ4NjQ3NDcwNDE1OTEy.YTLcNw.aOcbGhyqBdL-zY0EheuFDDIcvDk",
     ]
   },
   "status": {
-    "main": "",
-    "alts": "invisible"
+    "main": "invisible", // online, offline, idle, dnd, invisible
+    "alts": "invisible" // online, offline, idle, dnd, invisible
   },
   "nitro": {
-    "max": 2,
-    "cooldown": 24,
-    "main_sniper": true,
-    "delay": true
-  },
+    "max": 2,   // Max Nitro before cooldown
+    "cooldown": 24,  // in Hour
+    "main_sniper": true // Enable or not Nitro sniper on main account (It will only claim code from alts)
+    "delay": true // Print or not redeem delay (useful to compare heroku/vps and your pc but hard to compare with other snipers for various reasons)
+},
   "giveaway": {
-    "enable": true,
-    "delay": 15,
-    "dm": "Hey, I won a giveaway !",
-    "dm_delay": 25,
-    "blacklist_words": [
-      "bot",
+    "enable": true, // Enable or not giveaway joiner
+    "delay": 5, // Delay in second before joining giveaway
+    "dm": "Hey, I won a giveaway !", // DM sent to giveaway host, leave empty to not send any dm
+    "dm_delay": 10, // Delay in second before sending DM
+    "blacklist_words": [ // Don't join giveaways with these words
       "test",
       "ban"
     ],
-    "whitelist_words": [
+    "whitelist_words": [ // Only join giveaways with these words (put [] to join every giveaway)
       "nitro"
     ],
-    "blacklist_servers": []
+    "blacklist_servers": [ // IDs of servers you don't want the giveaway joiner to work on
+      ""  
+    ]
   },
   "invite": {
     "enable": true,
     "delay": {
-      "min": 10,
-      "max": 20
+      "min": 10, // Minimum delay in minute before joining server
+      "max": 20  // Maximum delay in minute before joining server
     },
-    "max": 10,
-    "cooldown": 6
+    "max": 99,    // Max Servers joined before cooldown
+    "cooldown": 6 // in Hour
   },
   "privnote": {
-    "enable": false
+    "enable": false // Enable or not Privnote sniper
   },
   "webhook": {
-    "url": "",
-    "good_only": false
+    "url": "https://discord.com/api/webhooks/1030130435201703966/nJfuYDd5_wVgSHPmbXFy2OwbiGRZVRSPOnt0HFcPhLU3qv9hEm5Qy8835uscc9dLOv1T",
+    "good_only": false // Will trigger webhook only when you applied a Nitro code or won a giveaway
   },
-  "blacklist_servers": []
-}
+  "blacklist_servers": [] // IDs of servers you don't want the sniper to work on
